@@ -22,4 +22,4 @@ with st.spinner('Arquivo sendo gerado. Por favor, aguarde.'):
     time.sleep(20)
 st.success("Done!")
 # incluir https da url do git
-st.write("[Análise de Renda]('analise_renda.html')")
+st.write("[Análise de Renda]('./pages/analise_renda.html')")
